@@ -1,6 +1,6 @@
-# 🛠️ Utilities
+# 🛠️ Utils Support
 
-A lightweight, zero-dependency utility library with a comprehensive set of helper functions for JavaScript and TypeScript. This package provides a collection of utilities for working with arrays, objects, dates, strings, web functionality, and more.
+A lightweight, zero-dependency utils-support library with a comprehensive set of helper functions for JavaScript and TypeScript. This package provides a collection of utilities for working with arrays, objects, dates, strings, web functionality, and more.
 
 ## ✨ Features
 
@@ -27,11 +27,11 @@ A lightweight, zero-dependency utility library with a comprehensive set of helpe
 
 ```bash
 # Using npm
-npm install utilities
+npm install utils-support
 
 # Using yarn
-yarn add utilities
+yarn add utils-support
 
 # Using pnpm
-pnpm add utilities
+pnpm add utils-support
 ```

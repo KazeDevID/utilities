@@ -1,5 +1,5 @@
 {
-  "name": "utilities",
+  "name": "utils-support",
   "version": "0.1.0",
   "description": "A lightweight utility library with various helper functions",
   "type": "module",
