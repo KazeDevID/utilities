@@ -1,4 +1,4 @@
-# 🛠️ Tiny Utils
+# 🛠️ Utilities
 
 A lightweight, zero-dependency utility library with a comprehensive set of helper functions for JavaScript and TypeScript. This package provides a collection of utilities for working with arrays, objects, dates, strings, web functionality, and more.
 
@@ -27,11 +27,11 @@ A lightweight, zero-dependency utility library with a comprehensive set of helpe
 
 ```bash
 # Using npm
-npm install tiny-utils
+npm install utilities
 
 # Using yarn
-yarn add tiny-utils
+yarn add utilities
 
 # Using pnpm
-pnpm add tiny-utils
+pnpm add utilities
 ```
