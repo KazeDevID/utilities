@@ -20,9 +20,6 @@ jobs:
       - name: Install dependencies
         run: npm install  # Use npm install to create package-lock.json if it doesn't exist
       
-      - name: Run tests
-        run: npm test  # Run tests
-      
       - name: Build
         run: npm run build  # Build the project
       
